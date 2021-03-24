@@ -1,4 +1,5 @@
-# Conway's Game of Life 
+Conway's Game of Life 
+============================
 
 
 ![Photo from the game](game_screenshot.png)
@@ -6,7 +7,9 @@
 
 This is Game of Live game simulation, created with pygame
 
-### The game have few simple rules 
+Game Rules
+----------------
+The game have few simple rules
 
 * Every cell have 8 neighbours cells 
 * Any live cell with fewer than two, or more than three  live  neighbours cells, dies 
@@ -15,7 +18,8 @@ This is Game of Live game simulation, created with pygame
 
 In this version I considered the end of each edge to be the start of the opposite edge, this way we won't have  shapes stuck at the edges 
 
-## Inispiration 
+Inspiration
+--------------------------
 This project is inspired from [DevDungeon's Video](https://www.youtube.com/watch?v=VNAU7HH4QRw)
 
 Installation

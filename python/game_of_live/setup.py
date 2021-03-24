@@ -14,10 +14,11 @@ def readme_file_content():
 
 setup(
     name='py_game_of_life',
-    version='1.2',
+    version='1.0.4',
     description='Conway\'s Game of Life Simulation, implemented with pygame',
     long_description=readme_file_content(),
-    url='https://github.com/BodaSadalla98/Cookbook/tree/main/python/game_of_live,
+    long_description_content_type='text/markdown',
+    url='https://github.com/BodaSadalla98/Cookbook/tree/main/python/game_of_live',
     author='BodaSadalla',
     author_email='boda998@yahoo.com',
     license='GPL-3.0',
