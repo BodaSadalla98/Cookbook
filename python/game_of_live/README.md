@@ -48,5 +48,8 @@ Controls
 #### press `r` to randomize and start over
 #### press `q` to quit
 
+Source Code
+--------------
 
+https://github.com/BodaSadalla98/Cookbook/tree/main/python/game_of_live
 
