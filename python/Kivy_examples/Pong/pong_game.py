@@ -79,7 +79,3 @@ class PongApp(App):
         Clock.schedule_interval(game.update, 1.0 / 60)
         return game
 
-
-if __name__ == '__main__':
-    pong = PongApp()
-    pong.run()
